@@ -4,7 +4,7 @@ Predicting Life Expectancy using Machine Learning
 This is a Machine Learning Project that i have completed under Remote Summer Internship Program 2020 by SmartInternz.  
 
 In this project the average life expectancy of a human is predicted using machine learning and python.
-The life expectancy is predicted by training a Random foresta classification machine learning algorithm model which is trained on the dataset provided by WHO and downloaded from kaggle.com which contains data like alcohol consumption, adult mortality, infant deaths, info related to various diseases, gdp, population, etc for most of the countries of around 10 years.
+The life expectancy is predicted by training a Random forest classification machine learning algorithm model which is trained on the dataset provided by WHO and downloaded from kaggle.com which contains data like alcohol consumption, adult mortality, infant deaths, info related to various diseases, gdp, population, etc for most of the countries of around 10 years.
 
 The project uses various services of IBM cloud. 
 The model is deployed on IBM cloud using Watson machine learning service and IBM Watson Studio. 
